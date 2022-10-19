@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tanstack/react-query": "^4.12.0",
+    "@zodios/core": "^10.1.0",
+    "@zodios/react": "^10.0.1",
+    "axios": "^1.1.3",
     "next": "12.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "zod": "^3.19.1"
   },
   "devDependencies": {
     "@types/node": "18.11.2",
